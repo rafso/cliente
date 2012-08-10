@@ -1,0 +1,6 @@
+2012-03-18 15:16:32 WARN  200.150.24.185  nologin  index main.inc: database version 3.1.0 is lower than programs version 3.1.1. Redirect to install page.
+2012-03-18 15:16:32 INFO  200.150.24.185  nologin  index --- End access to /cliente/admin/system/index.php (Warn: db disconnection forced)
+2012-03-18 15:16:52 WARN  200.150.24.185  nologin  index main.inc: database version 3.1.0 is lower than programs version 3.1.1. Redirect to install page.
+2012-03-18 15:16:52 INFO  200.150.24.185  nologin  index --- End access to /cliente/index.php (Warn: db disconnection forced)
+2012-03-18 15:24:53 WARN  200.150.24.185  nologin  index main.inc: database version 3.1.0 is lower than programs version 3.1.1. Redirect to install page.
+2012-03-18 15:24:53 INFO  200.150.24.185  nologin  index --- End access to /cliente/index.php (Warn: db disconnection forced)

@@ -1,0 +1,3 @@
+[21-Mar-2012 23:49:59] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/tescom/public_html/www.wallner.eng.br/cliente/societe/soc.php on line 986
+[21-Mar-2012 23:49:59] PHP Parse error:  syntax error, unexpected $end in /home/tescom/public_html/www.wallner.eng.br/cliente/societe/soc.php on line 986
+[22-Mar-2012 01:03:48] PHP Parse error:  syntax error, unexpected $end in /home/tescom/public_html/www.wallner.eng.br/cliente/societe/soc.php on line 378
