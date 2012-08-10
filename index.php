@@ -33,7 +33,6 @@ require_once(DOL_DOCUMENT_ROOT."/boxes.php");
 if (! isset($_GET["mainmenu"])) $_GET["mainmenu"]="home";
 
 
-
 /*
  * Actions
  */
